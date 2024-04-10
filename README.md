@@ -1,1 +1,1 @@
-# CSC642---MindSpace
+# CSC642-MindSpace
